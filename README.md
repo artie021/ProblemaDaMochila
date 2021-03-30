@@ -5,21 +5,21 @@
 	🚀 Em funcionamento ! 🚀
 </h4>
 ________________________________________________________
-### 🛠 Tecnologias
+<h2 align="center">🛠 Tecnologias</h2>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [C++]
 ________________________________________________________
 
-### Autor
----
+<h2 align="center">Autor</h2>
 
 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63522257?v=4" width="100px;" alt=""/>
+ <img align="center" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63522257?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Arthur Felipe</b></sub></a> <a href="" title="Computer_Science_Student">🚀</a>
 
 
 Feito por Artie_ 👋🏽
-https://img.shields.io/static/v1?label=<Insta>&message=<@arthur_f18>&color=<#E4405F>&style=<social>&logo=<instagram>
+
+[![Instgram Badge](https://img.shields.io/badge/-@arthur_f18-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://instagram.com/arthur_f18)]
