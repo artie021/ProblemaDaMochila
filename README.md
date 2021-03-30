@@ -23,4 +23,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito por Artie_ 👋🏽
 
-![Instgram Badge](https://img.shields.io/badge/-@arthur_f18-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://instagram.com/arthur_f18)
+https://img.shields.io/github/followers/artie021?style=social
+<a href="https://www.instagram.com/arthur_f18">@arthur_f18</a>
