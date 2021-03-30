@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h2 align="center">Autor</h2>
 
-<div align-itens="center" justify-itens="center">
+<div align-itens="center" justify-itens="center" justify="center">
  <img align="center" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63522257?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Arthur Felipe</b></sub> 
