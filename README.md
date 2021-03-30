@@ -23,5 +23,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito por Artie_ 👋🏽
 
-https://img.shields.io/github/followers/artie021?style=social
+
 <a href="https://www.instagram.com/arthur_f18">@arthur_f18</a>
