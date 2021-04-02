@@ -8,15 +8,15 @@
 
 <h2 align="center">🛠 Tecnologias</h2>
 
-As seguintes ferramentas foram usadas na construção do projeto:
+<p align="center">As seguintes ferramentas foram usadas na construção do projeto:</p>
 
 - [C++]
 
 
 <h2 align="center">Autor</h2>
 
-
- <img align="center" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63522257?v=4" width="100px;" alt=""/>
+<div align="center">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63522257?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Arthur Felipe</b></sub> 
 
@@ -25,4 +25,4 @@ Feito por Artie_ 👋🏽
 
 
 <a href="https://www.instagram.com/arthur_f18">@arthur_f18</a>
-
+</div>
