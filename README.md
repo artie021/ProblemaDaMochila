@@ -11,6 +11,7 @@
 <p align="center">As seguintes ferramentas foram usadas na construção do projeto:</p>
 
 - [C++]
+- [Visual Studio Code Community]
 
 
 <h2 align="center">Autor</h2>
